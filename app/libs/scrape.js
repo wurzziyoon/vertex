@@ -149,6 +149,7 @@ const freeWrapper = {
   'www.hddolby.com': _free,
   'pthome.net': _free,
   'pt.soulvoice.club': _free,
+  'carpt.net': _free,
   'et8.org': _free,
   'hdfans.org': _free,
   'www.nicept.net': _free,
